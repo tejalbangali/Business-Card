@@ -1,0 +1,25 @@
+.card {
+  background-color: #1ee592;
+  width: 500px;
+  margin: 50px auto;
+  padding: 100px 50px;
+  font-family: "Noto Sans JP", sans-serif;
+  border-radius: 12px;
+}
+
+.description {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.button {
+  background-color: white;
+  border: none;
+  color: black;
+  font-size: 18px;
+  padding: 10px 40px;
+  border-radius: 50px;
+  margin-top: 20px;
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: bold;
+}
